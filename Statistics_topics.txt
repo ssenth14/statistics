@@ -1,0 +1,20 @@
+Data representation and interaction
+Data as a table
+The pandas data-frame
+
+Hypothesis testing: comparing two groups
+Student’s t-test: the simplest statistical test
+Paired tests: repeated measurements on the same indivuals
+
+Linear models, multiple factors, and analysis of variance
+“formulas” to specify statistical models in Python
+Multiple Regression: including multiple factors
+Post-hoc hypothesis testing: analysis of variance (ANOVA)
+
+More visualization: seaborn for statistical exploration
+Pairplot: scatter matrices
+lmplot: plotting a univariate regression
+
+Testing for interactions
+Full code for the figures
+Solutions to this chapter’s exercises
